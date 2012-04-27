@@ -13,4 +13,6 @@ Code and art by
 *Kushagra Gour*  
 (chinchang457@gmail.com)
 
+Licensed under *WTFPL*
+
 [Note: You need to have Flashpunk library in order to build this.]
