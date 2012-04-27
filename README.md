@@ -9,8 +9,7 @@ Its written in Actionscript 3.0 and uses Chevy's [Flashpunk](http://flashpunk.ne
 **LD Compo entry page**: [http://www.ludumdare.com/compo/ludum-dare-23/?action=preview&uid=4201](http://www.ludumdare.com/compo/ludum-dare-23/?action=preview&uid=4201)
 
 
-Code and art by
 
-*Kushagra Gour*
-
+Code and art by  
+*Kushagra Gour*  
 (chinchang457@gmail.com)
