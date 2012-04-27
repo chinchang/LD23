@@ -10,5 +10,7 @@ Its written in Actionscript 3.0 and uses Chevy's [Flashpunk](http://flashpunk.ne
 
 
 Code and art by
+
 *Kushagra Gour*
+
 (chinchang457@gmail.com)
